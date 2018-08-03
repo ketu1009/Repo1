@@ -1,0 +1,14 @@
+ Volume in drive H is New Volume
+ Volume Serial Number is A409-D4C1
+
+ Directory of H:\JAVA
+
+03-08-2018  22:07    <DIR>          .
+03-08-2018  22:07    <DIR>          ..
+13-07-2018  15:25            32,641 37006076_2135352669833044_7275531602782846976_n.jpg
+03-08-2018  20:41               622 App.class
+03-08-2018  20:35               125 App.java
+03-08-2018  22:07                 0 test1.txt
+13-07-2018  15:22               419 zindagi
+               5 File(s)         33,807 bytes
+               2 Dir(s)  82,387,730,432 bytes free
